@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/LabCsharpAsyncMemory.Api/LabCsharpAsyncMemory.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LabCsharpAsyncMemory.Tests/LabCsharpAsyncMemory.Tests.csproj" />
+  </Folder>
+</Solution>
